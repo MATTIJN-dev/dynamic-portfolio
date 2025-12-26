@@ -1,0 +1,12 @@
+[
+  {
+    "id": "project_65ab92a1d3c21",
+    "title": "MagicMine",
+    "short_description": "Minecraft adventure game",
+    "description": "A full adventure game with magic and bosses.",
+    "tags": ["game", "minecraft", "lua"],
+    "thumbnail": "assets/thumbs/magicmine.png",
+    "link": "https://github.com/username/magicmine",
+    "created_at": "2025-01-12 20:41:22"
+  }
+]
